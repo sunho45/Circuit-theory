@@ -21,3 +21,6 @@ W=I*R
 
 종속전원
 ![image](https://user-images.githubusercontent.com/100903674/189015637-a9670ab9-8df7-4dc4-b118-53965f78d5c0.png)
+
+![image](https://user-images.githubusercontent.com/100903674/189264834-5df1b30a-3aed-46ea-988a-a6967e598747.png)
+
