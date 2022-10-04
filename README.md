@@ -35,9 +35,13 @@ f=1/T
 
 
 
+정현파함수
 
-
-```
 ![image](https://user-images.githubusercontent.com/100903674/193834111-81e47d32-a41d-4cf2-9aaa-02b730165bf6.png)
 
-```
+인덕터와 케피시터의 임피던스
+
+![image](https://user-images.githubusercontent.com/100903674/193836230-8f6bb7af-4656-4872-bcc4-74fb54a56090.png)
+
+
+
