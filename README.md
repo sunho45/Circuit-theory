@@ -24,3 +24,20 @@ W=I*R
 
 ![image](https://user-images.githubusercontent.com/100903674/189264834-5df1b30a-3aed-46ea-988a-a6967e598747.png)
 
+ 주파수와 주기의 관계
+```
+f=1/T
+```
+정현파 함수의 진폭,위상,주기,주파수
+
+![image](https://user-images.githubusercontent.com/100903674/193833785-8916b51a-a09a-4517-bd16-cba857aa23c7.png)
+
+
+
+
+
+
+```
+![image](https://user-images.githubusercontent.com/100903674/193834111-81e47d32-a41d-4cf2-9aaa-02b730165bf6.png)
+
+```
